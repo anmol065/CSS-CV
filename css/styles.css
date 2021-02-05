@@ -165,11 +165,12 @@ a:hover {
   color: #11999E;
   text-decoration: none;
   margin: 0.8rem;
+  font-size: 1.2rem;
 }
 .copyright-text {
   margin: 2rem auto 0 auto;
   color: #EAF6F6;
-  font-size: 0.8rem;
+  font-size: 0.7rem;
 }
 .intro-paragraph {
   color: #40514E;
