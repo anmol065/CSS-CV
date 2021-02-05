@@ -91,14 +91,14 @@ hr {
   position: absolute;
   /*left: 20%;
   top: 10px;*/
-  top: 50px;
-  right: 300px;
+  top: 4.1rem;
+  right: 19rem;
 }
 
 .bottom-cloud {
   position: absolute;
-  left: 300px;
-  bottom: 330px;
+  left: 19rem;
+  bottom: 21rem;
 }
 .profile-img {
   margin-top: 1.5rem;
