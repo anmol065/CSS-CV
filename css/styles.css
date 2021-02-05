@@ -54,6 +54,9 @@ hr {
   /* border-radius: 20px; */
   margin: 3rem auto;
 }
+a:hover {
+  color: #EAF6F6;
+}
 /***************CLASS SELECTORS***************/
 .top-container {
   padding-top: 100px;
