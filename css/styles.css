@@ -175,6 +175,10 @@ a:hover {
 .intro-paragraph {
   color: #40514E;
 }
+.change-width-paragraph {
+  width: 50%;
+  margin: 1rem auto;
+}
 /* .cool-row-description {
   clear: left;
 }
